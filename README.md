@@ -1,5 +1,4 @@
-# WaterReminderNotification
-Sure! Here's a sample README for your code:
+
 
 # Water Reminder Notification
 
